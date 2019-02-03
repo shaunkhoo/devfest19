@@ -1,0 +1,19 @@
+name: "Teach and Reach"
+output_dir: "."
+navbar:
+  title: "Teach and Reach"
+  left:
+    - text: "Admin"
+      href: admin.html
+    - text: "Application"
+      href: apply.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/shaunkhoo
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/shaun-khoo-517ab9116/
+output:
+  html_document:
+    theme: united
