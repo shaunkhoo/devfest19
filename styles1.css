@@ -1,0 +1,32 @@
+h1 {
+  font-size: 1px;
+}
+.title {
+  font-size: 1px;
+  text-align: center;
+}
+h2 {
+  font-size: 26px;
+  color: #4868af;
+}
+h3 {
+  font-size: 20px;
+  color: #a5a5a5;
+}
+h4 {
+  font-size: 20px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+img {
+    display: block;
+    margin: auto;
+}
+
+img-circle {
+    border-radius: 50%;
+}
