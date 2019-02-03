@@ -1,0 +1,146 @@
+﻿tutee_id,fn,ln,grade,subject,language,lat,lon,avail
+1,Shaun,Kingston,8,Social Studies,None,40.79781,-73.94589,1A-2B
+2,Mary,Lemmings,9,Mathematics,None,40.7423543,-73.9891508,5C-7D
+3,Jada,Smith,3,Reading,None,40.7352428,-73.9875856,6C-7E
+4,Kiara,Rollins,6,English,None,40.7056925,-74.0167769,1E-2E-3E
+5,Isabella,Lopez,12,Statistics,Spanish,40.83253,-73.91877,4C-4D
+6,Darryl,Decker,10,Anatomy,None,40.81395,-73.81395,1A-3C-4C
+7,Yasmine,Sadi,4,Science,French,40.802268,-73.9558,7B
+8,Leonel,Gomez,12,Chemistry,Spanish,40.7439431,-73.9796607,3E-4E-5E
+9,Jeremy,Wilson,5,Mathematics,None,40.722055,-73.989111,4D
+10,Diana,Miller,6,Science,None,40.7393554,-73.9993178,3A-4A-5A
+11,Caleb,Brown,1,Reading,None,40.68807,-73.9841064,1B
+12,Penelope,Davis,7,Social Studies,None,40.7414439,-73.9753608,1C-4C-5C
+13,Eric,Fargo,12,Calculus,None,40.7142749,-73.9899003,5E
+14,Jamal,Nelson,6,Mathematics,None,40.7419514,-74.0080301,6A-7A
+15,Abir,Naser,9,French,Arabic,40.7145045,-74.0056279,6D
+16,Juan,Sanchez,3,Mathematics,Spanish,40.7331426,-73.9757388,2B-4B
+17,Emily,Nelson,2,Writing,None,40.7295536,-73.9805725,4A-5A
+18,Timothy,Cook,10,Business,None,40.7402588,-73.9840921,5F
+19,Ethan,Martinez,2,Mathematics,Spanish,40.7471823,-73.9432635,3A-4A-5A
+20,Felipe,Santos,1,Reading,Portuguese,40.6890044,-73.9602385,1A-2A-4A
+21,Jasmin,Henderson,9,Earth Science,None,40.7353243,-73.9980042,5C-6C
+22,Luis,Ramos,4,Mathematics,Spanish,40.6885153,-73.9647628,5B-6B
+23,Tyrone,Price,4,Science,None,40.74,-73.961,3D
+24,Valentina,Garcia,9,History,Spanish,40.7532596,-73.9433579,4F
+25,Remy,Martin,8,Mathematics,None,40.7470859,-73.9497723,2A
+26,Annie,Kendrick,1,Reading,Spanish,40.83851,-73.91602,3A-4A-5A
+27,Kenny,Burton,1,Mathematics,None,40.83123,-73.91826,2A-2B-3A
+28,Ricardo,Marquez,1,Writing,Portuguese,40.82214,-73.910535,4B-5B
+29,Matthew,Wong,2,Reading,Chinese,40.81396,-73.90229,3B-4A-7B
+30,Jamie,Parker,2,Writing,Spanish,40.81629,-73.92701,3C
+31,Shawn,Cole,2,Mathematics,None,40.80694,-73.9555,4B-6D
+32,Tiara,Levine,3,Mathematics,None,40.802134,-73.95567,2A-3A-5A
+33,Judy,Li,3,Writing,Chinese,40.798232,-73.94571,5D-5E
+34,Jonathan,Carter,3,Science,None,40.81447,-73.94536,4A-5A
+35,Edward,Jacob,4,Science,None,40.7215224,-73.9489827,3D
+36,Emma,Evans,4,Science,None,40.7538334,-73.9426768,1A-2B
+37,Blake,Stewart,4,Mathematics,Spanish,40.7589848,-73.9937997,5C-7D
+38,Will,Turner,5,Science,None,40.7173184,-73.9482021,6C-7E
+39,Mateo,Gomez,5,Social Studies,Spanish,40.71924,-73.95242,1E-2E-3E
+40,Rachel ,Howards,5,Mathematics,None,40.7627442,-73.9391141,4C-4D
+41,Abishek,Sharma,5,Social Studies,Hindi,40.7569332,-73.9262231,1A-3C-4C
+42,Phillip,Cook,6,Science,None,40.7580583,-73.9242751,7B
+43,Kathy,Lee,6,English,Korean,40.756913,-73.921631,3E-4E-5E
+44,Melanie,Ward,6,Social Studies,None,40.7596276,-73.9321455,3D-5D
+45,Courtney,Brooks,6,Mathematics,None,40.7557327,-73.9236611,4C-6E
+46,Andrei,Putin,7,Social Studies,Russian,40.6830456,-74.0034856,3A-6B-7B
+47,Nelly,Mitchell,7,Mathematics,None,40.6794327,-74.0078504,3E-4E-5E
+48,Kobe,James,7,Business,None,40.6812117,-74.0086091,4A-5A
+49,DeShawn,Bryant,7,Mathematics,None,40.6763744,-74.0032496,5F
+50,Colin,Russell,7,English,French,40.850787,-73.879294,3A-4A-5A
+51,Adam,Butler,8,French,None,40.852842,-73.853922,1A-2A-4A
+52,Rosa,Washington,8,Mathematics,None,40.881934,-73.911565,5C-6C
+53,Simone,Stewart,8,Spanish,None,40.834696,-73.91432,5B-6B
+54,Claire,Griffin,8,Business,None,40.809249,-73.882775,3D
+55,Bruna,Santos,8,English,Portuguese,40.86947,-73.885483,4F
+56,Freddie,Kingston,9,Mathematics,None,40.892283,-73.836711,2A
+57,Roman,Reed,9,Mathematics,None,40.81442,-73.846417,5F
+58,Drake,Rogers,9,Social Studies,None,40.820136,-73.853957,7C-7D
+59,Billy,Barnes,9,History,None,40.817038,-73.885514,6B-6C
+60,Giuseppe,Antonio,9,Algebra,Italian,40.816004,-73.901291,3D-3F
+61,Benjamin,Simmons,9,Biology,None,40.818603,-73.917067,4B
+62,Peter,Patterson,9,Science,None,40.908408,-73.90606,5B-6B
+63,Fergie,Alexander,10,Chemistry,None,40.828985,-73.912949,5E-6E-7E
+64,Michelle,Long,10,Chemistry,None,40.818602,-73.941761,3C-4F
+65,Henry,Ross,10,Physics,None,40.798355,-73.941757,2A-3A-3B
+66,Courtney,Cox,10,Physics,None,40.799387,-73.966445,6F
+67,Rachel ,Murphy,10,Physics,None,40.804944,-73.95001,4C
+68,Linda,Martinez,10,Statistics,Spanish,40.80806,-73.94109,1D-1E
+69,Taylor,Watson,10,Statistics,None,40.804152,-73.962029,3F
+70,Lady,Kelly,10,Calculus,Spanish,40.802075,-73.95508,2A-2B-2C
+71,Thomas,Ferguson,10,Anatomy,None,40.80694,-73.9555,3E-4E-5E
+72,Martin,Adams,10,Earth Science,None,40.83851,-73.91602,7B
+73,Stewart,Gray,10,Writing,None,40.83123,-73.91826,3C-4C-5C
+74,Sebastian,Ramos,10,Calculus,None,40.82214,-73.910535,1A-3E-5F
+75,Michael,Ramirez,10,French,None,40.81396,-73.90229,2A
+76,Cameron,Diaz,11,German,None,40.81629,-73.92701,5E-6E
+77,Diego,Gonzales,11,Anatomy,None,40.80694,-73.9555,7A-7B
+78,Rodrigo,Gonzalez,11,Accounting,Spanish,40.802134,-73.95567,1D-1E
+79,Patrick,Rowe,11,Writing,French,40.798232,-73.94571,3D
+80,Abel,Smith,11,Calculus,None,40.81447,-73.94536,7A-7E
+81,Selena,Nicole,11,Statistics,None,40.7215224,-73.9489827,1D-1E
+82,Edward,Green,11,Anatomy,None,40.7538334,-73.9426768,3F
+83,Nicole,Sanchez,11,Accounting,None,40.7589848,-73.9937997,2A-2B-2C
+84,Rudy,Mac,11,Spanish,None,40.7173184,-73.9482021,3E-4E-5E
+85,Stephen,Tyler,11,Physics,None,40.71924,-73.95242,7B
+86,Julio,Hernandez,11,Biology,Spanish,40.7627442,-73.9391141,3C-4C-5C
+87,Oswald,Harris,11,Chemistry,None,40.7569332,-73.9262231,1A-3E-5F
+88,Samuel,Ferdinand,12,History,None,40.7580583,-73.9242751,1A-3B-5C
+89,Luna,Davie,12,Calculus,None,40.756913,-73.921631,3C-4B
+90,Harry,Swenson,12,Anatomy,None,40.7596276,-73.9321455,5F-6A-6B
+91,Ronald,Quint,12,Biology,None,40.7557327,-73.9236611,7C-7F
+92,Philip,Adams,12,Statistics,None,40.6830456,-74.0034856,1A-1B-1C
+93,Emerald,Jenner,12,Accounting,None,40.6794327,-74.0078504,7E-7F
+94,North,Taylor,12,French,None,40.6812117,-74.0086091,4C
+95,Mira,Perez,12,Writing,Spanish,40.6763744,-74.0032496,2C-4C-6A
+96,Kendall,Cruz,12,Anatomy,None,40.850787,-73.879294,5F-6A-6B
+97,Kylie,Sanchez,12,Calculus,Spanish,40.852842,-73.853922,7C-7F
+98,Chloe,Potter,12,Statistics,None,40.881934,-73.911565,1A-1B-1C
+99,Kimberly,Wellington,12,French,None,40.834696,-73.91432,7E-7F
+100,Khloe,Horowitz,12,History,None,40.809249,-73.882775,4E-5E-5F
+101,Blair,West,12,Calculus,None,40.86947,-73.885483,3E-4E-5E
+102,Freddie,Ma,1,Reading,Chinese,40.892283,-73.836711,4D
+103,Zendaya,Richards,1,Reading,None,40.81442,-73.846417,3A-4A-5A
+104,Ayana,Love,1,Mathematics,None,40.820136,-73.853957,1B
+105,Abdel,Fattah,2,Writing,Arabic,40.817038,-73.885514,1C-4C-5C
+106,Joshua,Johnson,2,Reading,None,40.816004,-73.901291,5E
+107,Jeremiah,Nixon,2,Mathematics,None,40.818603,-73.917067,6A-7A
+108,Herbie,Chu,3,Writing,None,40.908408,-73.90606,6D
+109,Lemmie,Williams,3,Science,None,40.828985,-73.912949,2B-4B
+110,Meera,Sachdeva,10,Science,Hindi,40.787801,-73.953559,1A-1B-1C
+111,Raylo,Prince,11,Science,None,40.7882213,-73.9704156,7E-7F
+112,Antonio,Paneli,12,Calculus,None,40.7882213,-73.9704156,4E-5E-5F
+113,Gary,Bleecker,10,Mathematics,None,40.787801,-73.953559,3E-4E-5E
+114,Ashod,Assam,9,Reading,Arabic,40.787801,-73.953559,1A-1B-1C
+115,Ankir,Hussein,8,Reading,Arabic,40.787801,-73.953559,7E-7F
+116,Roger,Alvarez,10,Biology,Spanish,40.7882213,-73.9704156,4E-5E-5F
+117,Sean,Blake,8,Statistics,None,40.7882213,-73.9704156,3E-4E-5E
+118,Alvaro,Rodriguez,6,Calculus,Spanish,40.801694,-73.957145,1A-3E-5F
+119,Jessie,Williams,10,History,None,40.801694,-73.957145,1A-3B-5C
+120,Sebastian,McCord,11,Anatomy,None,40.801694,-73.957145,3C-4B
+121,Wei Fei,Lim,10,Writing,Chinese,40.801694,-73.957145,5F-6A-6B
+122,John,Henry,7,French,None,40.8086249,-73.9596214,7C-7F
+123,Ahmed,Fattah,8,Writing,Arabic,40.8086249,-73.9596214,1A-1B-1C
+124,Adam,Halim,8,Writing,Arabic,40.8086249,-73.9596214,3F
+125,Jessie,Lingard,10,Reading,None,40.780184,-73.9772853,2A-2B-2C
+126,Wayne,Roon,11,Writing,None,40.780184,-73.9772853,3E-4E-5E
+127,Cesar,Ronaldo,7,Calculus,Spanish,40.7796681,-73.9809304,7B
+128,Morigo,Hernandez,8,Writing,Spanish,40.7796681,-73.9809304,5F
+129,Hua Fei,Tan,10,History,Chinese,40.7756554,-73.9506862,3A-4A-5A
+130,Simon,Haid,10,History,Arabic,40.7756554,-73.9506862,1A-2A-4A
+131,Chee,Liu,10,Anatomy,Chinese,40.7665045,-73.971476,5C-6C
+132,Katherine,Weir,11,Writing,None,40.7665045,-73.971476,5B-6B
+133,Kate,Prince,8,Writing,None,40.7745284,-73.9875376,3D
+134,Gary,Booker,7,Mathematics,None,40.7852467,-73.9766732,3F
+135,Nehemiah,Tan,10,Calculus,Chinese,40.7262807,-73.9897804,2A-2B-2C
+136,Will,Jones,10,Writing,None,40.78839,-73.9747,3C-4C-5C
+137,Haley,Williams,7,Writing,None,40.78839,-73.9747,1A-3E-5F
+138,Samuel,Lee,6,Writing,None,40.78839,-73.9747,2A
+139,Arundi,Roy,8,Reading,Hindi,40.78839,-73.9747,5E-6E
+140,Shaun,Tan,9,Reading,Chinese,40.807067,-73.948444,5C-6C
+141,Charlie,Mendez,10,Science,None,40.807067,-73.948444,5B-6B
+142,Lukas,Cabrera,11,History,Italian,40.816067,-73.948444,3D
+143,Ariana,Swift,12,Anatomy,None,40.7903051,-73.947558,7B
+144,Ahad,Abadi,11,Writing,Arabic,40.7903051,-73.947558,5F
+145,Ahad,Jheevan,10,Calculus,Arabic,40.7903051,-73.947558,3A-4A-5A

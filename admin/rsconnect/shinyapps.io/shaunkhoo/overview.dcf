@@ -1,0 +1,12 @@
+name: overview
+title: overview
+username:
+account: shaunkhoo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 685417
+bundleId: 1852928
+url: https://shaunkhoo.shinyapps.io/overview/
+when: 1549191085.24037
+asMultiple: FALSE
+asStatic: FALSE

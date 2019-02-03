@@ -1,0 +1,15 @@
+---
+title: "Administrative Dashboard"
+output: 
+  html_document: 
+    css: styles1.css
+---
+<style type="text/css">
+.main-container {
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<center><iframe src = "https://shaunkhoo.shinyapps.io/admin/" height=900px width=1400px /></center>
